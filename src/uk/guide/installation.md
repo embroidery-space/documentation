@@ -53,6 +53,6 @@ Embroidery Studio підтримує Windows версії 10 та 11.
 
 ## Linux
 
-Наразі Embroidery Studio підтримує дистрибутиви Linux на базі Debian та RPM.
+Наразі Embroidery Studio підтримує дистрибутиви Linux на базі Debian та RHEL/Fedora.
 
 Ви можете встановити застосунок на Linux за допомогою стандартних засобів керування пакетами, завантаживши пакет DEB або RPM.
