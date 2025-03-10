@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev src/",
+    "build": "vitepress build src/",
+    "preview": "vitepress preview src/",
+    "fmt": "prettier --check src/"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.3",
+    "vitepress": "^1.6.3"
+  }
+}
