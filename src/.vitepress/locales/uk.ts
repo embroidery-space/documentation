@@ -58,9 +58,10 @@ export const docsUk: LocaleConfig = {
         quote: "", // Don't specify the quote.
       },
       footer: {
-        message:
-          'Випущено під <a href="https://github.com/embroidery-space/embroidery-studio/blob/main/LICENSE">ліцензією GNU GPLv3</a>.',
-        copyright: 'Авторське право © 2024-дотепер <a href="https://github.com/niusia-ua">Nazar Antoniuk</a>',
+        message: `Embroidery Studio випущено під <a href="https://github.com/embroidery-space/embroidery-studio/blob/main/LICENSE">ліцензією GPL-3.0-or-later</a>.
+          </br>Цей вебсайт випущено під <a href="https://github.com/embroidery-space/documentation/blob/main/LICENSE">ліцензією CC-BY-SA-4.0</a>.`,
+        copyright:
+          'Авторське право © 2024-дотепер <a href="https://github.com/niusia-ua">Nazar Antoniuk</a> і контрибʼютори Embroidery Studio',
       },
     },
   },
