@@ -14,6 +14,11 @@ export default defineConfig({
   },
   themeConfig: {
     siteTitle: "Embroidery Studio",
+    logo: {
+      light: "/app-logo.dark.svg",
+      dark: "/app-logo.light.svg",
+      alt: "Embroidery Studio Logo",
+    },
     externalLinkIcon: true,
   },
 });
