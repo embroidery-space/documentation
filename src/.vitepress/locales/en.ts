@@ -57,8 +57,8 @@ export const docsEn: LocaleConfig = {
         quote: "", // Don't specify the quote.
       },
       footer: {
-        message: `Embroidery Studio is released under the <a href="https://github.com/embroidery-space/embroidery-studio/blob/main/LICENSE">GPL-3.0-or-later License</a>.
-          </br>This website is released under the <a href="https://github.com/embroidery-space/documentation/blob/main/LICENSE">CC-BY-SA-4.0 License</a>.`,
+        message: `This website is released under the <a href="https://github.com/embroidery-space/documentation/blob/main/LICENSE">CC-BY-SA-4.0 License</a>.
+          </br>Embroidery Studio is released under the <a href="https://github.com/embroidery-space/embroidery-studio/blob/main/LICENSE">GPL-3.0-or-later License</a>.`,
         copyright:
           'Copyright © 2024-present <a href="https://github.com/niusia-ua">Nazar Antoniuk</a> and Embroidery Studio contributors',
       },
