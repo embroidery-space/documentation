@@ -5,6 +5,6 @@ export const socials = {
   },
   github: {
     icon: "github",
-    link: "https://github.com/embroidery-space/embroidery-studio",
+    link: "https://github.com/embroidery-space/embroiderly",
   },
 };

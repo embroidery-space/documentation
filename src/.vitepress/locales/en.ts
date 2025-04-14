@@ -58,7 +58,7 @@ export const docsEn: LocaleConfig = {
       },
       footer: {
         message: `This website is released under the <a href="https://github.com/embroidery-space/documentation/blob/main/LICENSE">CC-BY-SA-4.0 License</a>.
-          </br>Embroiderly is released under the <a href="https://github.com/embroidery-space/embroidery-studio/blob/main/LICENSE">GPL-3.0-or-later License</a>.`,
+          </br>Embroiderly is released under the <a href="https://github.com/embroidery-space/embroiderly/blob/main/LICENSE">GPL-3.0-or-later License</a>.`,
         copyright:
           'Copyright © 2024-present <a href="https://github.com/niusia-ua">Nazar Antoniuk</a> and Embroiderly contributors',
       },

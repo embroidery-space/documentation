@@ -1,6 +1,6 @@
 # Встановлення
 
-Щоб встановити Embroiderly, перейдіть на сторінку [останнього випуску](https://github.com/embroidery-space/embroidery-studio/releases/latest).
+Щоб встановити Embroiderly, перейдіть на сторінку [останнього випуску](https://github.com/embroidery-space/embroiderly/releases/latest).
 
 ![Вигляд сторінки випуску Embroiderly](/images/guide/installation/release-page.png)
 
