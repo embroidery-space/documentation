@@ -9,5 +9,5 @@ hero:
       link: /guide/installation
     - theme: alt
       text: Join the Community
-      link: https://t.me/embroidery_studio
+      link: https://t.me/embroiderly
 ---

@@ -9,5 +9,5 @@ hero:
       link: /uk/guide/installation
     - theme: alt
       text: Доєднатися до спільноти
-      link: https://t.me/embroidery_studio
+      link: https://t.me/embroiderly
 ---
