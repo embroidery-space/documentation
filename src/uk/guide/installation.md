@@ -1,8 +1,8 @@
 # Встановлення
 
-Щоб встановити Embroidery Studio, перейдіть на сторінку [останнього випуску](https://github.com/embroidery-space/embroidery-studio/releases/latest).
+Щоб встановити Embroiderly, перейдіть на сторінку [останнього випуску](https://github.com/embroidery-space/embroidery-studio/releases/latest).
 
-![Вигляд сторінки випуску Embroidery Studio](/images/guide/installation/release-page.png)
+![Вигляд сторінки випуску Embroiderly](/images/guide/installation/release-page.png)
 
 На ній ви побачите блок з усією інформацією щодо випуску:
 
@@ -12,7 +12,7 @@
 
 ## Windows 10/11
 
-Embroidery Studio підтримує Windows версії 10 та 11.
+Embroiderly підтримує Windows версії 10 та 11.
 
 Встановити застосунок на Windows ви можете за допомогою двох видів завантажувачів: MSI та NSIS.
 
@@ -42,6 +42,6 @@ Embroidery Studio підтримує Windows версії 10 та 11.
 
 ## Linux
 
-Наразі Embroidery Studio підтримує дистрибутиви Linux на базі Debian та RHEL/Fedora.
+Наразі Embroiderly підтримує дистрибутиви Linux на базі Debian та RHEL/Fedora.
 
 Ви можете встановити застосунок на Linux за допомогою стандартних засобів керування пакетами, завантаживши пакет DEB або RPM.

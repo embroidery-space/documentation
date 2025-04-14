@@ -6,21 +6,21 @@ const guide = {
   items: [
     {
       text: "Installation",
-      link: "/guide/installation",
+      link: "/en/guide/installation",
     },
   ],
 };
 
 export const docsEn: LocaleConfig = {
-  root: {
+  en: {
     label: "English",
     lang: "en-US",
-    title: "Embroidery Studio",
+    title: "Embroiderly",
     description: "A free, open-source, cross-platform desktop application for designing cross-stitch patterns.",
     themeConfig: {
       nav: [guide],
       sidebar: {
-        "/guide/": [{ collapsed: false, ...guide }],
+        "/en/guide/": [{ collapsed: false, ...guide }],
       },
       outline: {
         level: [1, 6],
@@ -41,12 +41,12 @@ export const docsEn: LocaleConfig = {
         {
           link: socials.telegram.link,
           icon: socials.telegram.icon,
-          ariaLabel: "Link to the Embroidery Studio community group in Telegram",
+          ariaLabel: "Link to the Embroiderly community group in Telegram",
         },
         {
           link: socials.github.link,
           icon: socials.github.icon,
-          ariaLabel: "Link to the Embroidery Studio repository on GitHub",
+          ariaLabel: "Link to the Embroiderly repository on GitHub",
         },
       ],
       notFound: {
@@ -58,9 +58,9 @@ export const docsEn: LocaleConfig = {
       },
       footer: {
         message: `This website is released under the <a href="https://github.com/embroidery-space/documentation/blob/main/LICENSE">CC-BY-SA-4.0 License</a>.
-          </br>Embroidery Studio is released under the <a href="https://github.com/embroidery-space/embroidery-studio/blob/main/LICENSE">GPL-3.0-or-later License</a>.`,
+          </br>Embroiderly is released under the <a href="https://github.com/embroidery-space/embroidery-studio/blob/main/LICENSE">GPL-3.0-or-later License</a>.`,
         copyright:
-          'Copyright © 2024-present <a href="https://github.com/niusia-ua">Nazar Antoniuk</a> and Embroidery Studio contributors',
+          'Copyright © 2024-present <a href="https://github.com/niusia-ua">Nazar Antoniuk</a> and Embroiderly contributors',
       },
     },
   },

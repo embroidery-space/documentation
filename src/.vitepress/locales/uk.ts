@@ -15,7 +15,7 @@ export const docsUk: LocaleConfig = {
   uk: {
     label: "Українська",
     lang: "uk-UA",
-    title: "Embroidery Studio",
+    title: "Embroiderly",
     description:
       "Безкоштовний, відкритий, кросплатформний компʼютерний застосунок для створення схем вишивок хрестиком.",
     themeConfig: {
@@ -42,12 +42,12 @@ export const docsUk: LocaleConfig = {
         {
           link: socials.telegram.link,
           icon: socials.telegram.icon,
-          ariaLabel: "Посилання на групу спільноти Embroidery Studio у Telegram",
+          ariaLabel: "Посилання на групу спільноти Embroiderly у Telegram",
         },
         {
           link: socials.github.link,
           icon: socials.github.icon,
-          ariaLabel: "Посилання на репозиторій Embroidery Studio у GitHub",
+          ariaLabel: "Посилання на репозиторій Embroiderly у GitHub",
         },
       ],
       notFound: {
@@ -59,9 +59,9 @@ export const docsUk: LocaleConfig = {
       },
       footer: {
         message: `Цей вебсайт випущено під <a href="https://github.com/embroidery-space/documentation/blob/main/LICENSE">ліцензією CC-BY-SA-4.0</a>.
-          </br>Embroidery Studio випущено під <a href="https://github.com/embroidery-space/embroidery-studio/blob/main/LICENSE">ліцензією GPL-3.0-or-later</a>.`,
+          </br>Embroiderly випущено під <a href="https://github.com/embroidery-space/embroidery-studio/blob/main/LICENSE">ліцензією GPL-3.0-or-later</a>.`,
         copyright:
-          'Авторське право © 2024-дотепер <a href="https://github.com/niusia-ua">Nazar Antoniuk</a> і контрибʼютори Embroidery Studio',
+          'Авторське право © 2024-дотепер <a href="https://github.com/niusia-ua">Nazar Antoniuk</a> і контрибʼютори Embroiderly',
       },
     },
   },

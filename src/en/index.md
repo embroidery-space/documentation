@@ -1,7 +1,7 @@
 ---
 layout: home
 hero:
-  name: Embroidery Studio
+  name: Embroiderly
   tagline: A desktop application for designing cross-stitch patterns
   actions:
     - theme: brand

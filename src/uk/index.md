@@ -1,7 +1,7 @@
 ---
 layout: home
 hero:
-  name: Embroidery Studio
+  name: Embroiderly
   tagline: Компʼютерний застосунок для створення схем вишивок хрестиком
   actions:
     - theme: brand

@@ -13,11 +13,11 @@ export default defineConfig({
     ...locales.docsUk,
   },
   themeConfig: {
-    siteTitle: "Embroidery Studio",
+    siteTitle: "Embroiderly",
     logo: {
       light: "/app-logo.dark.svg",
       dark: "/app-logo.light.svg",
-      alt: "Embroidery Studio Logo",
+      alt: "Embroiderly Logo",
     },
     externalLinkIcon: true,
   },
