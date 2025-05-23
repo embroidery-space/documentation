@@ -6,7 +6,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /guide/installation
+      link: ./guide/installation
     - theme: alt
       text: Join the Community
       link: https://t.me/embroiderly

@@ -6,7 +6,7 @@ hero:
   actions:
     - theme: brand
       text: Розпочати
-      link: /uk/guide/installation
+      link: ./guide/installation
     - theme: alt
       text: Доєднатися до спільноти
       link: https://t.me/embroiderly
