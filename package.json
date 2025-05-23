@@ -5,10 +5,13 @@
     "dev": "vitepress dev src/",
     "build": "vitepress build src/",
     "preview": "vitepress preview src/",
-    "fmt": "prettier --check src/"
+    "fmt": "prettier --check src/",
+    "lint": "markdownlint-cli2 src/**/*.md"
   },
   "devDependencies": {
+    "markdownlint-cli2": "^0.18.1",
     "prettier": "^3.5.3",
+    "sentences-per-line": "^0.3.0",
     "vitepress": "^1.6.3"
   }
 }
