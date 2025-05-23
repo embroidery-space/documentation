@@ -11,6 +11,16 @@ const guide = {
   ],
 };
 
+const reference = {
+  text: "Довідка",
+  items: [
+    {
+      text: "Взаємодія із зоною перегляду схеми",
+      link: "/uk/reference/pattern-viewport",
+    },
+  ],
+};
+
 export const docsUk: LocaleConfig = {
   uk: {
     label: "Українська",
@@ -19,9 +29,10 @@ export const docsUk: LocaleConfig = {
     description:
       "Безкоштовний, відкритий, кросплатформний компʼютерний застосунок для створення схем вишивок хрестиком.",
     themeConfig: {
-      nav: [guide],
+      nav: [guide, reference],
       sidebar: {
         "/uk/guide/": [{ collapsed: false, ...guide }],
+        "/uk/reference/": [{ collapsed: false, ...reference }],
       },
       outline: {
         level: [1, 6],
