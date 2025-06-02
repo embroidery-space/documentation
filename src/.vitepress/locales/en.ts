@@ -15,6 +15,10 @@ const reference = {
   text: "Reference",
   items: [
     {
+      text: "Shortcuts",
+      link: "/en/reference/shortcuts",
+    },
+    {
       text: "Interaction with the pattern viewport",
       link: "/en/reference/pattern-viewport",
     },

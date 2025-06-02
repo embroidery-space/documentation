@@ -15,6 +15,10 @@ const reference = {
   text: "Довідка",
   items: [
     {
+      text: "Комбінації клавіш",
+      link: "/uk/reference/shortcuts",
+    },
+    {
       text: "Взаємодія із зоною перегляду схеми",
       link: "/uk/reference/pattern-viewport",
     },
