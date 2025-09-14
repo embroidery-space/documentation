@@ -1,14 +1,14 @@
 import type { LocaleConfig } from "vitepress";
 import { socials } from "../shared/index.ts";
 
+const download = {
+  text: "Download",
+  link: "/en/download",
+};
+
 const guide = {
   text: "Guide",
-  items: [
-    {
-      text: "Installation",
-      link: "/en/guide/installation",
-    },
-  ],
+  items: [],
 };
 
 const reference = {
@@ -32,7 +32,7 @@ export const docsEn: LocaleConfig = {
     title: "Embroiderly",
     description: "A free, open-source, cross-platform desktop application for designing cross-stitch patterns.",
     themeConfig: {
-      nav: [guide, reference],
+      nav: [download, guide, reference],
       sidebar: {
         "/en/guide/": [{ collapsed: false, ...guide }],
         "/en/reference/": [{ collapsed: false, ...reference }],

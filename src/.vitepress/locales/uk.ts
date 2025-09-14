@@ -1,14 +1,14 @@
 import type { LocaleConfig } from "vitepress";
 import { socials } from "../shared/index.ts";
 
+const download = {
+  text: "Завантажити",
+  link: "/uk/download",
+};
+
 const guide = {
   text: "Посібник",
-  items: [
-    {
-      text: "Встановлення",
-      link: "/uk/guide/installation",
-    },
-  ],
+  items: [],
 };
 
 const reference = {
@@ -33,7 +33,7 @@ export const docsUk: LocaleConfig = {
     description:
       "Безкоштовний, відкритий, кросплатформний компʼютерний застосунок для створення схем вишивок хрестиком.",
     themeConfig: {
-      nav: [guide, reference],
+      nav: [download, guide, reference],
       sidebar: {
         "/uk/guide/": [{ collapsed: false, ...guide }],
         "/uk/reference/": [{ collapsed: false, ...reference }],

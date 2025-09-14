@@ -1,7 +1,7 @@
 {
   "private": true,
   "type": "module",
-  "packageManager": "pnpm@10.15.1",
+  "packageManager": "pnpm@10.16.1",
   "engines": {
     "node": ">=24.0.0"
   },
@@ -12,7 +12,11 @@
     "fmt": "prettier --check src/",
     "lint": "markdownlint-cli2 src/**/*.md"
   },
+  "dependencies": {
+    "vue": "^3.5.21"
+  },
   "devDependencies": {
+    "@vue/tsconfig": "^0.8.1",
     "markdownlint-cli2": "^0.18.1",
     "prettier": "^3.5.3",
     "sentences-per-line": "^0.3.0",
