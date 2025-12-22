@@ -13,13 +13,13 @@
     "lint": "markdownlint-cli2 src/**/*.md"
   },
   "dependencies": {
-    "vue": "3.5.25"
+    "vue": "3.5.26"
   },
   "devDependencies": {
     "@vue/tsconfig": "0.8.1",
     "markdownlint-cli2": "0.20.0",
     "markdownlint-sentences-per-line": "0.1.1",
     "prettier": "3.7.4",
-    "vitepress": "1.6.3"
+    "vitepress": "1.6.4"
   }
 }
