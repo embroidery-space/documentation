@@ -18,8 +18,8 @@
   "devDependencies": {
     "@vue/tsconfig": "^0.8.1",
     "markdownlint-cli2": "^0.20.0",
+    "markdownlint-sentences-per-line": "^0.1.1",
     "prettier": "^3.7.4",
-    "sentences-per-line": "^0.4.0",
     "vitepress": "^1.6.3"
   }
 }
